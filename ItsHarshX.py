@@ -77,8 +77,8 @@ async def main():
 
 if __name__ == "__main__":
     authMain = "M1L2P3O4I5U6Y7"
-    stytext = f"{Fore.CYAN}{Style.BRIGHT}"
-    stytext += '''\033[34;1m  _____  _         _    _                    _     __   __
+    stytext = f"{Fore.CYAN}{Style.BRIGHT} It's Harsh \033[0m"
+    #stytext += '''\033[34;1m  _____  _         _    _                    _     __   __
 |_   _|| |       | |  | |                  | |    \ \ / /
   | |  | |_  ___ | |__| |  __ _  _ __  ___ | |__   \ V / 
   | |  | __|/ __||  __  | / _` || '__|/ __|| '_ \   > <  
