@@ -77,7 +77,7 @@ async def main():
 
 if __name__ == "__main__":
     authMain = "M1L2P3O4I5U6Y7"
-    stytext = f"{Fore.CYAN}{Style.BRIGHT} It's Harsh \033[0m"                                                                                                        
+    stytext = f"\033[33;1m It's Harsh \033[0m"                                                                                                        
     print(stytext)
     print("\033[36;1;3;4m>>> Contact - @ItsHarshX to Buy Updated Script <<<\033[0m\n\n")
 authMain1 = "M1L2P3O4I5U6Y7 "
